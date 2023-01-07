@@ -1,4 +1,4 @@
-### Hi there, I'm Emily (she/her/hers)
+### Hi there, I'm Emily. (she/her/hers)
 
 I am currently a Web Design and Development student at Champlain College pursing an associate degree. I am seeking an internship opportunity, with or without the possibility of a career position, that will allow me to utilize my technical and design skills. I enjoy the ability to braid my critical thinking/analytic skills with creativity in the web design and development field. I'm also very passionate about Accessibility and Inclusive design.
 
