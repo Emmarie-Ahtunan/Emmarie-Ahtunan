@@ -12,6 +12,11 @@ My early work in the IT/Computer Science field began with learning Boolean searc
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=emmarie-ahtunan&theme=modern-lilac2)](https://git.io/streak-stats)
 
+![student-member](https://user-images.githubusercontent.com/86572370/211211728-eb4784cd-5b65-4f21-9e62-cf4b61111c9c.png)
+
+
+
+
 <!--
 **Emmarie-Ahtunan/Emmarie-Ahtunan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
