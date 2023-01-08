@@ -17,6 +17,8 @@ My early work in the IT/Computer Science field began with learning Boolean searc
 
 
 
+
+
 <!--
 **Emmarie-Ahtunan/Emmarie-Ahtunan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -30,4 +32,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="65f10bb8-b69a-488d-8555-e70ade0c2b5b" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 -->
