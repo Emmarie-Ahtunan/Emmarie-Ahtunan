@@ -10,10 +10,18 @@ My professional, educational, and personal background is eclectic which uniquely
 My early work in the IT/Computer Science field began with learning Boolean searching, Basic, and C++. I am comfortable working on various operating systems, have the ability to pick up new technologies quickly and I am always excited about learning new languages and frameworks.
 
 
+
+
+
+---
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=emmarie-ahtunan&theme=modern-lilac2)](https://git.io/streak-stats)
-
-![student-member](https://user-images.githubusercontent.com/86572370/211211728-eb4784cd-5b65-4f21-9e62-cf4b61111c9c.png)
-
+---
+### STUDENT MEMBER
+![student-member](https://user-images.githubusercontent.com/86572370/211211728-eb4784cd-5b65-4f21-9e62-cf4b61111c9c.png)<img width="508" alt="AllInLogo" src="https://user-images.githubusercontent.com/86572370/211231067-df06022b-22df-4add-929f-ae1a3acb5a0c.png">
+---
+### Ali-Octo-Gator-Cat (my GitHub alter-ego). 
+![octocat-1672069611417](https://user-images.githubusercontent.com/86572370/211231131-df3438fa-fbd0-477e-8516-af06e9a53e7e.png)
 
 
 
