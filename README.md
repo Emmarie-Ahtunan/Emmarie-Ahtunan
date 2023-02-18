@@ -1,6 +1,13 @@
 
 ### Hi there, I'm Emily. (she/her/hers)
 
+<a href="https://gitpod.io/#<your-repository-url>">
+  <img
+    src="https://img.shields.io/badge/Contribute%20with-Gitpod-908a85?logo=gitpod"
+    alt="Contribute with Gitpod"
+  />
+</a>
+
 I am a Web Design and Development student at Champlain College. I enjoy the ability to braid my critical thinking and analytic skills with creativity in the web design and development field. I'm also very passionate about Accessibility and Inclusive design. 
 
 I am equally comfortable working with teams in an open collaborative environment as well as taking initiative and working solo while framing challenging problems and meeting deadlines.
