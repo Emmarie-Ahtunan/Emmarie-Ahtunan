@@ -22,8 +22,8 @@ My professional, educational, and personal background is eclectic which uniquely
 ---
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=emmarie-ahtunan&theme=modern-lilac2)](https://git.io/streak-stats)
-
 ---
+![](https://komarev.com/ghpvc/?username=Emmarie-Ahtunan&style=plastic&color=blueviolet)
 <!--
 ### Ali-Octo-Gator-Cat, my GitHub alter-ego. 
 ![octocat-1672069611417](https://user-images.githubusercontent.com/86572370/211231131-df3438fa-fbd0-477e-8516-af06e9a53e7e.png)
