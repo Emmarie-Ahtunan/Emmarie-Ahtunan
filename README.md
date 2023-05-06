@@ -8,16 +8,9 @@
   />
 </a> 
 ------>
+As a Web Design and Development student, I'm driven by the opportunity to weave my analytical and critical thinking skills with creativity to create innovative designs. My passion for Accessibility and Inclusive design fuels my commitment to developing accessible and inclusive websites.
 
-I am a Web Design and Development student at Champlain College. I enjoy the ability to braid my critical thinking and analytic skills with creativity in the web design and development field. I'm also very passionate about Accessibility and Inclusive design. 
-
-I am equally comfortable working with teams in an open collaborative environment as well as taking initiative and working solo while framing challenging problems and meeting deadlines.
-
-My professional, educational, and personal background is eclectic which uniquely positions me to bring my experience with research, writing, teaching, public speaking, team leading and working on teams, networking, consulting, and organizing skills to my work in the computer science field. 
-
-
-
-
+Whether collaborating with teams or working solo, I thrive in a challenging environment that demands problem-solving and meeting deadlines. My eclectic background, including research, writing, teaching, public speaking, team leadership, networking, consulting, and organizing, uniquely positions me to bring a broad range of skills to my work in the computer science field.
 
 ---
 
