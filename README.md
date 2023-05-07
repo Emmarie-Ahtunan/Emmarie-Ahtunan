@@ -23,10 +23,7 @@ Whether collaborating with teams or working solo, I thrive in a challenging envi
 <!--
 ### Ali-Octo-Gator-Cat, my GitHub alter-ego. 
 ![octocat-1672069611417](https://user-images.githubusercontent.com/86572370/211231131-df3438fa-fbd0-477e-8516-af06e9a53e7e.png)
-
-
-
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Emmarie-Ahtunan)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Emmarie-Ahtunan/Emmarie-Ahtunan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
