@@ -10,7 +10,7 @@
 ------>
 As a Web Design and Development student, I'm driven by the opportunity to weave my analytical and critical thinking skills with creativity to create innovative designs. My passion for Accessibility and Inclusive design fuels my commitment to developing accessible and inclusive websites. I am comfortable working on various operating systems, can pick up new technologies quickly, and am always excited about learning new languages and frameworks.
 
-Whether collaborating with teams or working solo, I thrive in a challenging environment that demands problem-sovlving and meeting deadline. My eclectic professional background, including research, writing, teaching, public speaking, team leadership, networking, consulting, and organizing, uniquely positions me to bring a broad range of skills to my work in the computer science field.
+Whether collaborating with teams or working solo, I thrive in a challenging environment that demands problem-sovlving and meeting deadlines. My eclectic professional background, including research, writing, teaching, public speaking, team leadership, networking, consulting, and organizing, uniquely positions me to bring a broad range of skills to my work in the computer science field.
 
 ---
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=emmarie-ahtunan&theme=modern-lilac2)](https://git.io/streak-stats)
