@@ -1,13 +1,12 @@
-
-## Hi there, I'm Emily. (she/her/hers)
 <!------
+## Hi there, I'm Emily. (she/her/hers)
+
 <a href="https://gitpod.io/#<your-repository-url>">
   <img
     src="https://img.shields.io/badge/Contribute%20with-Gitpod-908a85?logo=gitpod"
     alt="Contribute with Gitpod"
   />
 </a> 
------->
 As a Web Design and Development student, I'm driven by the opportunity to weave my analytical and critical thinking skills with creativity to create innovative designs. My passion for Accessibility and Inclusive design fuels my commitment to developing accessible and inclusive websites. I am comfortable working on various operating systems, can pick up new technologies quickly, and am always excited about learning new languages and frameworks.
 
 Whether collaborating with teams or working solo, I thrive in a challenging environment that demands problem-sovlving and meeting deadlines. My eclectic professional background, including research, writing, teaching, public speaking, team leadership, networking, consulting, and organizing, uniquely positions me to bring a broad range of skills to my work in the computer science field.
@@ -20,6 +19,7 @@ Whether collaborating with teams or working solo, I thrive in a challenging envi
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Emmarie-Ahtunan&theme=midnight_purple) ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Emmarie-Ahtunan&theme=midnight_purple) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Emmarie-Ahtunan&theme=midnight_purple)
 ---
 ![](https://komarev.com/ghpvc/?username=Emmarie-Ahtunan&style=plastic&color=blueviolet)
+------>
 <!--
 ### Ali-Octo-Gator-Cat, my GitHub alter-ego. 
 ![octocat-1672069611417](https://user-images.githubusercontent.com/86572370/211231131-df3438fa-fbd0-477e-8516-af06e9a53e7e.png)
