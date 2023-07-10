@@ -18,9 +18,11 @@ Whether collaborating with teams or working solo, I thrive in a challenging envi
 ---
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Emmarie-Ahtunan&theme=midnight_purple)
 ---
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Emmarie-Ahtunan&theme=midnight_purple) ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Emmarie-Ahtunan&theme=midnight_purple) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Emmarie-Ahtunan&theme=midnight_purple)
+![My Profile Summary Card](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Emmarie-Ahtunan&theme=midnight_purple) ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Emmarie-Ahtunan&theme=midnight_purple) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Emmarie-Ahtunan&theme=midnight_purple)
 ---
-![](https://komarev.com/ghpvc/?username=Emmarie-Ahtunan&style=plastic&color=blueviolet)
+![My profile visitor count](https://komarev.com/ghpvc/?username=Emmarie-Ahtunan&style=plastic&color=blueviolet)
+
+
 
 <!--
 ### Ali-Octo-Gator-Cat, my GitHub alter-ego. 
