@@ -20,7 +20,8 @@ Whether collaborating with teams or working solo, I thrive in a challenging envi
 ---
 ![My Profile Summary Card](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Emmarie-Ahtunan&theme=midnight_purple) ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Emmarie-Ahtunan&theme=midnight_purple) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Emmarie-Ahtunan&theme=midnight_purple)
 ---
-![My profile visitor count](https://komarev.com/ghpvc/?username=Emmarie-Ahtunan&style=plastic&color=blueviolet)
+
+
 
 
 
@@ -29,6 +30,7 @@ Whether collaborating with teams or working solo, I thrive in a challenging envi
 ![octocat-1672069611417](https://user-images.githubusercontent.com/86572370/211231131-df3438fa-fbd0-477e-8516-af06e9a53e7e.png)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Emmarie-Ahtunan)](https://github.com/anuraghazra/github-readme-stats)
 
+![My profile visitor count](https://komarev.com/ghpvc/?username=Emmarie-Ahtunan&style=plastic&color=blueviolet)
 <!--
 **Emmarie-Ahtunan/Emmarie-Ahtunan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
