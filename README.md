@@ -16,9 +16,10 @@ Whether collaborating with teams or working solo, I thrive in a challenging envi
 
 [![An image of @emmarieahtunan's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/emmarieahtunan)](https://holopin.io/@emmarieahtunan)
 
+<!---
 ---
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=emmarie-ahtunan&theme=modern-lilac2)](https://git.io/streak-stats)
+[GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=emmarie-ahtunan&theme=modern-lilac2)
 
 ---
 <!--![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Emmarie-Ahtunan&theme=midnight_purple)
